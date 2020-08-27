@@ -2,18 +2,12 @@
 
 This repo contains an attempt to replicate the experiments and results of an ICML Paper titled "Training Binary Neural Networks through learning with noisy supervision". 
 
-## Small ResNet experiments
-
-- [ ]  CIFAR-10 Notebook
-- [ ]  ImageNet Notebook
-- [ ]  Results of CIFAR-10
-- [ ]  Results of ImageNet
 
 ## Full ResNet experiments
 
-- [ ]  CIFAR-10 Notebook
+- [X]  CIFAR-10 Notebook
 - [ ]  ImageNet Notebook
-- [ ]  Results of CIFAR-10
+- [X]  Results of CIFAR-10
 - [ ]  Results of ImageNet
 
 ### To Do
